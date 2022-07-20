@@ -3,7 +3,7 @@
 * Dataset with information on products listed on e-commerce platfrom WISH.
 * Cleaned through unnecessary data
 * Exploratory Data Analysis
-* Using Multiple Linear Regression I generated 2 Models showing variabkes that influence Product Rating 
+* Generated 2 Models showing variables that influence Product Rating using Multiple Linear Regression 
 * Predicting Product Ratings using Test Group
 * Variable Dependency Analysis
 
