@@ -10,6 +10,7 @@
 ## Code and Resources Used
 - **Python (Jupyter Notebooks)**
 - **Packages:** pandas, numpy, seaborn, matplotlib, sklearn, statsmodels
-- **[Dataset link]** (https://www.kaggle.com/datasets/jmmvutu/summer-products-and-sales-in-ecommerce-wish)
+- [Dataset link] (https://www.kaggle.com/datasets/jmmvutu/summer-products-and-sales-in-ecommerce-wish)
 
-
+## Project overview on YouTube
+[Youtube link] (https://youtu.be/reXcIHse8j8)
